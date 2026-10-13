@@ -1,6 +1,6 @@
 # Replication Package: Monte Carlo Simulations and Mosaic Visualizations
 
-**Article Title:** *ggskewboxplots: An R Package for Visualizing and Detecting Outliers in Skewed and Heavy-Tailed Data*  
+**Article Title:** *ggskewboxplots: Enhanced Boxplots for Skewed Data in R*  
 **Author:** Mustafa Cavus  
 **Software Package:** `ggskewboxplots` (Available on CRAN: https://cran.r-project.org/package=ggskewboxplots)
 
@@ -110,7 +110,7 @@ If using this replication package or the `ggskewboxplots` package, please cite:
 
 ```bibtex
 @article{cavus2025ggskewboxplots,
-  title     = {ggskewboxplots: An R Package for Visualizing and Detecting Outliers in Skewed and Heavy-Tailed Data},
+  title     = {ggskewboxplots: Enhanced Boxplots for Skewed Data in R},
   author    = {Cavus, Mustafa},
   year      = {2025}
 }
