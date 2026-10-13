@@ -1,8 +1,9 @@
-# Replication Package: Monte Carlo Simulations and Mosaic Visualizations
+# ggskewboxplots: Enhanced Boxplots for Skewed Data in R
 
-**Article Title:** *ggskewboxplots: Enhanced Boxplots for Skewed Data in R*  
+### Replication Materials for Simulation Studies
+
 **Author:** Mustafa Cavus  
-**Software Package:** `ggskewboxplots` (Available on CRAN: https://cran.r-project.org/package=ggskewboxplots)
+**Software Package:** `ggskewboxplots` (CRAN: https://cran.r-project.org/package=ggskewboxplots)
 
 ---
 
